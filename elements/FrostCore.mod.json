@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Frost Core",
+    "icon": {
+      "value": "CUSTOM:IceIngot"
+    },
+    "showSearch": false
+  }
+}

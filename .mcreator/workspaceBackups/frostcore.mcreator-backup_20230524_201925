@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "Iceingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iceingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/frostcore/item/IceingotItem.java",
+          "src/main/resources/assets/frostcore/models/item/iceingot.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.frostcore.iceingot": "Ice Ingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "frostcore",
+    "modName": "FrostCore",
+    "version": "1.0.0",
+    "author": "Alex, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.frostcore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
