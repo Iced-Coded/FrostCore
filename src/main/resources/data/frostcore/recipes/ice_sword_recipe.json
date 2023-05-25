@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "frostcore:iceingot"
+    },
+    "1": {
+      "item": "frostcore:iceingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "frostcore:ice_sword",
+    "count": 1
+  }
+}

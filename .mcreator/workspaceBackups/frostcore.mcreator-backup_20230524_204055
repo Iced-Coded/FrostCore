@@ -3,7 +3,6 @@
     {
       "name": "Iceingot",
       "type": "item",
-      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "iceingot",
@@ -17,7 +16,6 @@
     {
       "name": "IceIngotrecipe",
       "type": "recipe",
-      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_ingotrecipe",
@@ -26,41 +24,13 @@
           "src/main/resources/data/frostcore/recipes/ice_ingotrecipe.json"
         ]
       }
-    },
-    {
-      "name": "IceSword",
-      "type": "tool",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ice_sword",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/frostcore/item/IceSwordItem.java",
-          "src/main/resources/assets/frostcore/models/item/ice_sword.json"
-        ]
-      }
-    },
-    {
-      "name": "IceSwordRecipe",
-      "type": "recipe",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ice_sword_recipe",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/frostcore/recipes/ice_sword_recipe.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.frostcore.iceingot": "Ice Ingot",
-      "item.frostcore.ice_sword": "Ice Sword"
+      "item.frostcore.iceingot": "Ice Ingot"
     }
   },
   "foldersRoot": {
